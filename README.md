@@ -2,7 +2,7 @@
 
 # appDespesas-JS
 ## 💻 Project
-<p# appDespesas-JS </p>
+<p># appDespesas-JS </p>
 <p> 
 Aplicativo que permite ao usuário cadastrar suas despesas em determinado período de tempo, podendo visualizá-las, filtrá-las e excluí-las. Ainda em fase de desenvolvimento... Existem melhorias a serem implementadas... </p>
 <br>
