@@ -17,7 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Bootstrap 4
 - HTML5
-- CSS3
 - JavaScript
 
 <hr/>
